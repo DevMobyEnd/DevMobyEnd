@@ -11,9 +11,9 @@
 
 ## 📲 Welcome to my Digital Space!
 
-<tr>
-<td width="50%">
+
 ### 🚀 Quick Facts About Me
+
 
 const JHONNY_ALEXANDER = [
     'nombre_completo' => 'Jhonny Alexander González Torres',
@@ -34,12 +34,8 @@ const JHONNY_ALEXANDER = [
     'filosofia' => '¡Nunca parar de aprender!'
 ];
 
-</td>
-<td width="50%">
-<img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="100%">
-</td>
-</tr>
-</table>
+
+
 
 ## 💻 Technical Universe
 
