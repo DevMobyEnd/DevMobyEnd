@@ -35,13 +35,13 @@ const JHONNY_ALEXANDER = [
     'enfoque_actual' => 'Creando experiencias web increíbles',
     'filosofia' => '¡Nunca parar de aprender!'
 ];
+```
 </td>
 <td width="40%">
 <img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="350">
 </td>
 </tr>
 </table>
-```
 
 ## 💻 Technical Universe
 
