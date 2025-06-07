@@ -11,12 +11,10 @@
 
 ## 📲 Welcome to my Digital Space!
 
-<table>
 <tr>
-<td valign="top">
-
+<td width="50%">
 ### 🚀 Quick Facts About Me
-```php
+
 const JHONNY_ALEXANDER = [
     'nombre_completo' => 'Jhonny Alexander González Torres',
     'edad' => 21,
@@ -35,10 +33,10 @@ const JHONNY_ALEXANDER = [
     'enfoque_actual' => 'Creando experiencias web increíbles',
     'filosofia' => '¡Nunca parar de aprender!'
 ];
-```
+
 </td>
-<td valign="top">
-<img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="400">
+<td width="50%">
+<img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="100%">
 </td>
 </tr>
 </table>
