@@ -18,21 +18,24 @@
 ### 🚀 Quick Facts About Me
 
 ```
-<?php
-const JHONNY = [
-    'nombre' => 'Jhonny Alexander González Torres',
+const JHONNY_ALEXANDER = [
+    'nombre_completo' => 'Jhonny Alexander González Torres',
     'edad' => 21,
-    'from' => 'Colombia 🇨🇴',
+    'nacionalidad' => 'Colombiano 🇨🇴',
     'rol' => 'Front-End Developer',
-    'educacion' => 'Tecnólogo ADSO - SENA',
-    'stack' => ['HTML', 'CSS', 'PHP', 'JavaScript', 'React', 'Laravel', 'MySQL'],
-    'herramientas' => ['Git', 'GitHub', 'Postman'],
-    'otros_lenguajes' => ['Python','C#', 'Lua' ],
-    'hobby' => 'Fútbol ⚽',
-    'sueño' => 'Trabajar en empresa de desarrollo de Software',
-    'motto' => 'Never stop learning!'
+    'educacion' => 'Tecnólogo en Análisis y Desarrollo de Software - SENA',
+    'lenguaje_favorito' => 'PHP',
+    'tecnologias' => [
+        'lenguajes' => ['PHP', 'JavaScript', 'Python'],
+        'frontend' => ['HTML', 'CSS', 'React'],
+        'backend' => ['Laravel', 'MySQL'],
+        'herramientas' => ['Git', 'GitHub', 'Postman']
+    ],
+    'pasatiempos' => ['Fútbol ⚽', 'Programación', 'Aprender nuevas tecnologías'],
+    'objetivo_profesional' => 'Trabajar en una empresa de desarrollo de software',
+    'enfoque_actual' => 'Creando experiencias web increíbles',
+    'filosofia' => '¡Nunca parar de aprender!'
 ];
-?>
 ```
 </td>
 <td width="50%">
