@@ -18,27 +18,24 @@
 ### 🚀 Quick Facts About Me
 
 ```
-const JHONNY_ALEXANDER = [
-    'nombre_completo' => 'Jhonny Alexander González Torres',
+<?php
+const JHONNY = [
+    'nombre' => 'Jhonny Alexander González Torres',
     'edad' => 21,
-    'nacionalidad' => 'Colombiano 🇨🇴',
+    'from' => 'Colombia 🇨🇴',
     'rol' => 'Front-End Developer',
-    'educacion' => 'Tecnólogo en Análisis y Desarrollo de Software - SENA',
-    'lenguaje_favorito' => 'PHP',
-    'tecnologias' => [
-        'lenguajes' => ['PHP', 'JavaScript', 'Python'],
-        'frontend' => ['HTML', 'CSS', 'React'],
-        'backend' => ['Laravel', 'MySQL'],
-        'herramientas' => ['Git', 'GitHub', 'Postman']
-    ],
-    'pasatiempos' => ['Fútbol ⚽', 'Programación', 'Aprender nuevas tecnologías'],
-    'objetivo_profesional' => 'Trabajar en una empresa de desarrollo de software',
-    'enfoque_actual' => 'Creando experiencias web increíbles',
-    'filosofia' => '¡Nunca parar de aprender!'
+    'educacion' => 'Tecnólogo ADSO - SENA',
+    'stack' => ['HTML', 'CSS', 'PHP', 'JavaScript', 'React', 'Laravel', 'MySQL'],
+    'herramientas' => ['Git', 'GitHub', 'Postman'],
+    'otros_lenguajes' => ['Python','C#', 'Lua' ],
+    'hobby' => 'Fútbol ⚽',
+    'sueño' => 'Trabajar en empresa de desarrollo de Software',
+    'motto' => 'Never stop learning!'
 ];
+?>
 ```
 </td>
-<td width="80%">
+<td width="50%">
 <img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="100%">
 </td>
 </tr>
