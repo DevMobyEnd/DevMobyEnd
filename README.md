@@ -38,7 +38,7 @@ const JHONNY_ALEXANDER = [
 ];
 ```
 </td>
-<td width="50%">
+<td width="80%">
 <img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="100%">
 </td>
 </tr>
