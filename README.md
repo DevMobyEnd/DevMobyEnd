@@ -14,7 +14,7 @@
 
 ### 🚀 Quick Facts About Me
 
-
+```
 const JHONNY_ALEXANDER = [
     'nombre_completo' => 'Jhonny Alexander González Torres',
     'edad' => 21,
@@ -34,7 +34,7 @@ const JHONNY_ALEXANDER = [
     'filosofia' => '¡Nunca parar de aprender!'
 ];
 
-
+```
 
 
 ## 💻 Technical Universe
