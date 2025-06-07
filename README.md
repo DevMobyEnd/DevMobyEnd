@@ -17,15 +17,25 @@
 
 ### 🚀 Quick Facts About Me
 
-```javascript
-const jhonny = {
-    role: "Front-End Developer",
-    location: "Earth 🌍",
-    currentFocus: "Creating amazing web experiences",
-    learning: ["React.js", "Node.js", "Next.js"],
-    hobbies: ["Sports", "Coding", "Learning"],
-    lifeMotto: "Never stop learning!"
-};
+```
+const JHONNY_ALEXANDER = [
+    'nombre_completo' => 'Jhonny Alexander González Torres',
+    'edad' => 21,
+    'nacionalidad' => 'Colombiano 🇨🇴',
+    'rol' => 'Front-End Developer',
+    'educacion' => 'Tecnólogo en Análisis y Desarrollo de Software - SENA',
+    'lenguaje_favorito' => 'PHP',
+    'tecnologias' => [
+        'lenguajes' => ['PHP', 'JavaScript', 'Python'],
+        'frontend' => ['HTML', 'CSS', 'React'],
+        'backend' => ['Laravel', 'MySQL'],
+        'herramientas' => ['Git', 'GitHub', 'Postman']
+    ],
+    'pasatiempos' => ['Fútbol ⚽', 'Programación', 'Aprender nuevas tecnologías'],
+    'objetivo_profesional' => 'Trabajar en una empresa de desarrollo de software',
+    'enfoque_actual' => 'Creando experiencias web increíbles',
+    'filosofia' => '¡Nunca parar de aprender!'
+];
 ```
 </td>
 <td width="50%">
