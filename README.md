@@ -13,11 +13,10 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### 🚀 Quick Facts About Me
-
-```
+```php
 const JHONNY_ALEXANDER = [
     'nombre_completo' => 'Jhonny Alexander González Torres',
     'edad' => 21,
@@ -36,13 +35,13 @@ const JHONNY_ALEXANDER = [
     'enfoque_actual' => 'Creando experiencias web increíbles',
     'filosofia' => '¡Nunca parar de aprender!'
 ];
-```
 </td>
-<td width="50%">
-<img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="100%">
+<td width="40%">
+<img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="350">
 </td>
 </tr>
 </table>
+```
 
 ## 💻 Technical Universe
 
