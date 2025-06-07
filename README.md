@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td valign="top">
 
 ### 🚀 Quick Facts About Me
 ```php
@@ -37,8 +37,8 @@ const JHONNY_ALEXANDER = [
 ];
 ```
 </td>
-<td width="40%">
-<img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="350">
+<td valign="top">
+<img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="400">
 </td>
 </tr>
 </table>
