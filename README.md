@@ -11,8 +11,28 @@
 
 ## 📲 Welcome to my Digital Space!
 
-| ### 🚀 Quick Facts About Me<br><br>```<br>const jhonny = {<br>    role: "Front-End Developer",<br>    location: "Earth 🌍",<br>    currentFocus: "Creating amazing web experiences",<br>    learning: ["React.js", "Node.js", "Next.js"],<br>    hobbies: ["Sports", "Coding", "Learning"],<br>    lifeMotto: "Never stop learning!"<br>};<br>``` | <img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="300"> |
-|---|---|
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Quick Facts About Me
+
+```javascript
+const jhonny = {
+    role: "Front-End Developer",
+    location: "Earth 🌍",
+    currentFocus: "Creating amazing web experiences",
+    learning: ["React.js", "Node.js", "Next.js"],
+    hobbies: ["Sports", "Coding", "Learning"],
+    lifeMotto: "Never stop learning!"
+};
+</td>
+<td width="50%">
+<img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="100%">
+</td>
+</tr>
+</table>
+```
 
 ## 💻 Technical Universe
 
