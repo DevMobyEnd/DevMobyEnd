@@ -26,13 +26,13 @@ const jhonny = {
     hobbies: ["Sports", "Coding", "Learning"],
     lifeMotto: "Never stop learning!"
 };
+```
 </td>
 <td width="50%">
 <img src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="100%">
 </td>
 </tr>
 </table>
-```
 
 ## 💻 Technical Universe
 
