@@ -2,7 +2,7 @@
   
 # ⚡️ Jhonny Torres | Front-End Developer ⚡️
 
-<img src="https://github.com/DevMobyEnd/Saber235/blob/main/Azul%20y%20Morado%20Geom%C3%A9trico%20Corporativo%20Emprendimiento%20Desarrollo%20de%20Aplicaciones%20Banner%20(1).png?raw=true" width="100%">
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-In%20Progress-yellow?style=flat-square&logo=google-chrome)](https://github.com/DevMobyEnd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhonny_González-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jhonny-gonz%C3%A1lez-torres-016570240)
