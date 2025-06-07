@@ -9,15 +9,13 @@
 
 </div>
 
-## 🌟 Welcome to my Digital Space!
+## 📲 Welcome to my Digital Space!
 
-> Turning ideas into interactive experiences, one line of code at a time.
-
-<img align="right" src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="300px">
+<img align="right" src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="500px">
 
 ### 🚀 Quick Facts About Me
 
-```javascript
+```
 const jhonny = {
     role: "Front-End Developer",
     location: "Earth 🌍",
