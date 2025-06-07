@@ -13,7 +13,7 @@
 
 > Turning ideas into interactive experiences, one line of code at a time.
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpraXBwZGR1ZGxicmRhejR6cmtuNWo1eWlnYWt5d2k4NGcxY2gxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/34C52oEhjEX9m/giphy.webp" width="300px">
+<img align="right" src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="300px">
 
 ### 🚀 Quick Facts About Me
 
