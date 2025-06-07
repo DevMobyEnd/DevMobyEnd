@@ -11,7 +11,7 @@
 
 ## 📲 Welcome to my Digital Space!
 
-<img align="right" src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="400" style="margin-top: 25px;">
+<img align="right" src="https://github.com/DevMobyEnd/DevMobyEnd/blob/main/hack.gif" width="300" style="margin-top: 25px;">
 
 ### 🚀 Quick Facts About Me
 
